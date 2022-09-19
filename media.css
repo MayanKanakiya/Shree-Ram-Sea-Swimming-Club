@@ -1,545 +1,545 @@
 @media only screen and (max-width: 1400px) {
   #imgshow {
-    vertical-align: middle;
-    width: 340px;
-    height: 340px;
-    border-radius: 50%;
-    position: relative;
-    left: 225px;
-    bottom: 422px;
+    vertical-align: middle !important;
+    width: 340px !important;
+    height: 340px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 225px !important;
+    bottom: 422px !important;
   }
 
   #imgSection {
-    height: 633.9px;
+    height: 630px !important;
   }
 }
 
 @media only screen and (max-width: 1181px) {
   #imgshow {
-    vertical-align: middle;
-    width: 290px;
-    height: 292px;
-    border-radius: 50%;
-    position: relative;
-    left: 188px;
-    bottom: 356px;
+    vertical-align: middle !important;
+    width: 290px !important;
+    height: 292px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 188px !important;
+    bottom: 356px !important;
   }
 
   #imgSection {
-    height: 536px;
+    height: 529px !important;
   }
 }
 
 @media only screen and (max-width: 991px) {
   #imgshow {
-    vertical-align: middle;
-    width: 210px;
-    height: 210px;
-    border-radius: 50%;
-    position: relative;
-    left: 140px;
-    bottom: 264px;
+    vertical-align: middle !important;
+    width: 210px !important;
+    height: 210px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 140px !important;
+    bottom: 264px !important;
   }
 
   #imgSection {
-    height: 529.9px;
+    height: 341.9px !important;
   }
 }
 
 @media only screen and (max-width: 767px) {
   #imgshow {
-    vertical-align: middle;
-    width: 341px;
-    height: 341px;
-    border-radius: 50%;
-    position: relative;
-    left: 229px;
-    bottom: 424px;
+    vertical-align: middle !important;
+    width: 330px !important;
+    height: 330px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 230px !important;
+    bottom: 420px !important;
   }
 
 
   #imgSection {
-    height: 393.9px;
+    height: 637px !important;
   }
 }
 
 @media only screen and (max-width: 575px) {
   #imgshow {
-    vertical-align: middle;
-    width: 341px;
-    height: 341px;
-    border-radius: 50%;
-    position: relative;
-    left: 249px;
-    bottom: 443px;
+    vertical-align: middle !important;
+    width: 353px !important;
+    height: 354px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 246px !important;
+    bottom: 449px !important;
   }
 
 
   #imgSection {
-    height: 667.9px;
+    height: 677px !important;
   }
 }
 
 @media only screen and (max-width: 560px) {
   #imgshow {
-    vertical-align: middle;
-    width: 341px;
-    height: 341px;
-    border-radius: 50%;
-    position: relative;
-    left: 241px;
-    bottom: 439px;
+    vertical-align: middle !important;
+    width: 341px !important;
+    height: 341px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 238px !important;
+    bottom: 441px !important;
   }
 
   #imgSection {
-    height: 663.9px;
+    height: 664px !important;
   }
 }
 
 @media only screen and (max-width: 548px) {
   #imgshow {
-    vertical-align: middle;
-    width: 341px;
-    height: 341px;
-    border-radius: 50%;
-    position: relative;
-    left: 232px;
-    bottom: 430px;
+    vertical-align: middle !important;
+    width: 341px !important;
+    height: 341px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 232px !important;
+    bottom: 427px !important;
   }
 
   #imgSection {
-    height: 647.9px;
+    height: 650px !important;
   }
 }
 
 @media only screen and (max-width: 537px) {
   #imgshow {
-    vertical-align: middle;
-    width: 341px;
-    height: 341px;
-    border-radius: 50%;
-    position: relative;
-    left: 226px;
-    bottom: 424px;
+    vertical-align: middle !important;
+    width: 341px !important;
+    height: 341px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 226px !important;
+    bottom: 424px !important;
   }
 
   #imgSection {
-    height: 634.9px;
+    height: 634px !important;
   }
 }
 
 @media only screen and (max-width: 530px) {
   #imgshow {
-    vertical-align: middle;
-    width: 330px;
-    height: 330px;
-    border-radius: 50%;
-    position: relative;
-    left: 224px;
-    bottom: 418px;
+    vertical-align: middle !important;
+    width: 330px !important;
+    height: 330px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 224px !important;
+    bottom: 418px !important;
   }
 
   #imgSection {
-    height: 626.9px;
+    height: 625px !important;
   }
 }
 
 @media only screen and (max-width: 518px) {
   #imgshow {
-    vertical-align: middle;
-    width: 330px;
-    height: 330px;
-    border-radius: 50%;
-    position: relative;
-    left: 218px;
-    bottom: 409px;
+    vertical-align: middle !important;
+    width: 330px !important;
+    height: 330px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 218px !important;
+    bottom: 409px !important;
   }
 
   #imgSection {
-    height: 614.9px;
+    height: 610px !important;
   }
 }
 
 @media only screen and (max-width: 509px) {
   #imgshow {
-    vertical-align: middle;
-    width: 320px;
-    height: 320px;
-    border-radius: 50%;
-    position: relative;
-    left: 216px;
-    bottom: 403px;
+    vertical-align: middle !important;
+    width: 320px !important;
+    height: 320px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 216px !important;
+    bottom: 403px !important;
   }
 
   #imgSection {
-    height: 602.9px;
+    height: 594px !important;
   }
 }
 
 @media only screen and (max-width: 497px) {
   #imgshow {
-    vertical-align: middle;
-    width: 320px;
-    height: 320px;
-    border-radius: 50%;
-    position: relative;
-    left: 209px;
-    bottom: 396px;
+    vertical-align: middle !important;
+    width: 320px !important;
+    height: 320px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 209px !important;
+    bottom: 396px !important;
   }
 
   #imgSection {
-    height: 589.9px;
+    height: 577px !important;
   }
 }
 
 @media only screen and (max-width: 490px) {
   #imgshow {
-    vertical-align: middle;
-    width: 310px;
-    height: 310px;
-    border-radius: 50%;
-    position: relative;
-    left: 206px;
-    bottom: 387px;
+    vertical-align: middle !important;
+    width: 310px !important;
+    height: 310px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 206px !important;
+    bottom: 387px !important;
   }
 
   #imgSection {
-    height: 582.9px;
+    height: 582px !important;
   }
 }
 
 @media only screen and (max-width: 476px) {
   #imgshow {
-    vertical-align: middle;
-    width: 310px;
-    height: 310px;
-    border-radius: 50%;
-    position: relative;
-    left: 201px;
-    bottom: 381px;
+    vertical-align: middle !important;
+    width: 310px !important;
+    height: 310px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 201px !important;
+    bottom: 381px !important;
   }
 
   #imgSection {
-    height: 565.9px;
+    height: 560px !important;
   }
 }
 
 @media only screen and (max-width: 462px) {
   #imgshow {
-    vertical-align: middle;
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-    position: relative;
-    left: 194px;
-    bottom: 369px;
+    vertical-align: middle !important;
+    width: 300px !important;
+    height: 300px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 194px !important;
+    bottom: 369px !important;
   }
 
   #imgSection {
-    height: 551.9px;
+    height: 545px !important;
   }
 }
 
 @media only screen and (max-width: 453px) {
   #imgshow {
-    vertical-align: middle;
-    width: 290px;
-    height: 290px;
-    border-radius: 50%;
-    position: relative;
-    left: 191px;
-    bottom: 361px;
+    vertical-align: middle !important;
+    width: 290px !important;
+    height: 290px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 191px !important;
+    bottom: 361px !important;
   }
 
   #imgSection {
-    height: 539.9px;
+    height: 528px !important;
   }
 }
 
 @media only screen and (max-width: 443px) {
   #imgshow {
-    vertical-align: middle;
-    width: 290px;
-    height: 290px;
-    border-radius: 50%;
-    position: relative;
-    left: 187px;
-    bottom: 357px;
+    vertical-align: middle !important;
+    width: 290px !important;
+    height: 290px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 187px !important;
+    bottom: 357px !important;
   }
 
   #imgSection {
-    height: 529.9px;
+    height: 529px !important;
   }
 }
 
 @media only screen and (max-width: 436px) {
   #imgshow {
-    vertical-align: middle;
-    width: 280px;
-    height: 280px;
-    border-radius: 50%;
-    position: relative;
-    left: 185px;
-    bottom: 349px;
+    vertical-align: middle !important;
+    width: 280px !important;
+    height: 280px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 185px !important;
+    bottom: 349px !important;
 
   }
 
   #imgSection {
-    height: 521.9px;
+    height: 521px !important;
   }
 }
 
 @media only screen and (max-width: 428px) {
   #imgshow {
-    vertical-align: middle;
-    width: 280px;
-    height: 280px;
-    border-radius: 50%;
-    position: relative;
-    left: 182px;
-    bottom: 345px;
+    vertical-align: middle !important;
+    width: 280px !important;
+    height: 280px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 182px !important;
+    bottom: 345px !important;
 
   }
 
   #imgSection {
-    height: 510.9px;
+    height: 508px !important;
   }
 }
 
 @media only screen and (max-width: 419px) {
   #imgshow {
-    vertical-align: middle;
-    width: 270px;
-    height: 270px;
-    border-radius: 50%;
-    position: relative;
-    left: 178px;
-    bottom: 336px;
+    vertical-align: middle !important;
+    width: 270px !important;
+    height: 270px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 178px !important;
+    bottom: 336px !important;
 
   }
 
   #imgSection {
-    height: 501.9px;
+    height: 501px !important;
   }
 }
 
 @media only screen and (max-width: 412px) {
   #imgshow {
-    vertical-align: middle;
-    width: 270px;
-    height: 270px;
-    border-radius: 50%;
-    position: relative;
-    left: 174px;
-    bottom: 332px;
+    vertical-align: middle !important;
+    width: 270px !important;
+    height: 270px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 174px !important;
+    bottom: 332px !important;
 
   }
 
   #imgSection {
-    height: 497.9px;
+    height: 493px !important;
   }
 }
 
 @media only screen and (max-width: 405px) {
   #imgshow {
-    vertical-align: middle;
-    width: 270px;
-    height: 270px;
-    border-radius: 50%;
-    position: relative;
-    left: 171px;
-    bottom: 329px;
+    vertical-align: middle !important;
+    width: 270px !important;
+    height: 270px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 171px !important;
+    bottom: 329px !important;
 
   }
 
   #imgSection {
-    height: 484.9px;
+    height: 484px !important;
   }
 }
 
 @media only screen and (max-width: 398px) {
   #imgshow {
-    vertical-align: middle;
-    width: 260px;
-    height: 260px;
-    border-radius: 50%;
-    position: relative;
-    left: 169px;
-    bottom: 321px;
+    vertical-align: middle !important;
+    width: 260px !important;
+    height: 260px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 169px !important;
+    bottom: 321px !important;
 
   }
 
   #imgSection {
-    height: 478.9px;
+    height: 478px !important;
   }
 }
 
 @media only screen and (max-width: 390px) {
   #imgshow {
-    vertical-align: middle;
-    width: 260px;
-    height: 260px;
-    border-radius: 50%;
-    position: relative;
-    left: 165px;
-    bottom: 319px;
+    vertical-align: middle !important;
+    width: 260px !important;
+    height: 260px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 165px !important;
+    bottom: 319px !important;
 
   }
 
   #imgSection {
-    height: 469.9px;
+    height: 469px !important;
   }
 }
 
 @media only screen and (max-width: 381px) {
   #imgshow {
-    vertical-align: middle;
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
-    position: relative;
-    left: 162px;
-    bottom: 308px;
+    vertical-align: middle !important;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 162px !important;
+    bottom: 308px !important;
 
   }
 
   #imgSection {
-    height: 459.9px;
+    height: 459px !important;
   }
 }
 
 @media only screen and (max-width: 374px) {
   #imgshow {
-    vertical-align: middle;
-    width: 245px;
-    height: 245px;
-    border-radius: 50%;
-    position: relative;
-    left: 159px;
-    bottom: 303px;
+    vertical-align: middle !important;
+    width: 245px !important;
+    height: 245px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 159px !important;
+    bottom: 303px !important;
 
   }
 
   #imgSection {
-    height: 450.9px;
+    height: 450px !important;
   }
 }
 
 @media only screen and (max-width: 366px) {
   #imgshow {
-    vertical-align: middle;
-    width: 245px;
-    height: 245px;
-    border-radius: 50%;
-    position: relative;
-    left: 156px;
-    bottom: 300px;
+    vertical-align: middle !important;
+    width: 245px !important;
+    height: 245px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 156px !important;
+    bottom: 300px !important;
 
   }
 
   #imgSection {
-    height: 444.9px;
+    height: 444px !important;
   }
 }
 
 @media only screen and (max-width: 360px) {
   #imgshow {
-    vertical-align: middle;
-    width: 240px;
-    height: 240px;
-    border-radius: 50%;
-    position: relative;
-    left: 154px;
-    bottom: 292px;
+    vertical-align: middle !important;
+    width: 240px !important;
+    height: 240px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 154px !important;
+    bottom: 292px !important;
 
   }
 
   #imgSection {
-    height: 434.9px;
+    height: 434px !important;
   }
 }
 
 @media only screen and (max-width: 351px) {
   #imgshow {
-    vertical-align: middle;
-    width: 235px;
-    height: 235px;
-    border-radius: 50%;
-    position: relative;
-    left: 150px;
-    bottom: 286px;
+    vertical-align: middle !important;
+    width: 235px !important;
+    height: 235px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 150px !important;
+    bottom: 286px !important;
 
   }
 
   #imgSection {
-    height: 423.9px;
+    height: 423px !important;
   }
 }
 
 @media only screen and (max-width: 343px) {
   #imgshow {
-    vertical-align: middle;
-    width: 218px;
-    height: 218px;
-    border-radius: 50%;
-    position: relative;
-    left: 149px;
-    bottom: 276px;
+    vertical-align: middle !important;
+    width: 218px !important;
+    height: 218px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 149px !important;
+    bottom: 276px !important;
 
   }
 
   #imgSection {
-    height: 415.9px;
+    height: 415px !important;
   }
 }
 
 @media only screen and (max-width: 332px) {
   #imgshow {
-    vertical-align: middle;
-    width: 218px;
-    height: 218px;
-    border-radius: 50%;
-    position: relative;
-    left: 143px;
-    bottom: 269px;
+    vertical-align: middle !important;
+    width: 218px !important;
+    height: 218px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 143px !important;
+    bottom: 269px !important;
 
   }
 
   #imgSection {
-    height: 401.9px;
+    height: 401px !important;
   }
 }
 
 @media only screen and (max-width: 321px) {
   #imgshow {
-    vertical-align: middle;
-    width: 218px;
-    height: 218px;
-    border-radius: 50%;
-    position: relative;
-    left: 138px;
-    bottom: 265px;
+    vertical-align: middle !important;
+    width: 218px !important;
+    height: 218px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 138px !important;
+    bottom: 265px !important;
 
   }
 
   #imgSection {
-    height: 392.9px;
+    height: 392px !important;
   }
 }
 
 @media only screen and (max-width: 312px) {
   #imgshow {
-    vertical-align: middle;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    position: relative;
-    left: 138px;
-    bottom: 252px;
+    vertical-align: middle !important;
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 138px !important;
+    bottom: 252px !important;
 
   }
 
   #imgSection {
-    height: 381.9px;
+    height: 381px !important;
   }
 }
