@@ -5,26 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="1;url;=404.html"/>
     <link rel="stylesheet" href="bootStyle.css">
     <link rel="stylesheet" href="media.css">
-    <style>
-        #imgshow {
-            vertical-align: middle;
-            width: 392px;
-            height: 392px;
-            border-radius: 50%;
-            position: relative;
-            left: 264px;
-            bottom: 489px;
-
-        }
-
-        #themeImg {
-            width: 100%;
-            height: auto
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
     <title>Shree Ram Sea Swimming Club</title>
 </head>
 
@@ -36,8 +19,11 @@
                 <img src="img2.jpg" alt="image not found" id="themeImg" width="600" height="400"
                     alt="Responsive Image" />
                 <img src="user.png" id="imgshow" width="380px" alt="User Image" />
+                <span id="userName"></span>
             </div>
             <div class="col my-5">
+                <label for="name" class="form-label">Enter Your Name :</label>
+                <input type="text" class="form-control" id="name" placeholder="Enter your name here">
                 <input type="file" id="imgload" class="btn btn-warning">
                 <button type="button" class="btn btn-warning ms-3 my-3 clickbtn" id="download">Download</button>
             </div>

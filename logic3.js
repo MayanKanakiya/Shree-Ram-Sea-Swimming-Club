@@ -12,3 +12,9 @@ document.getElementById("download").addEventListener("click", function () {
             anchorTag.click();
         });
 });
+
+let txtUname = document.getElementById("name");
+let userName = document.getElementById("userName");
+txtUname.onkeyup = function () {
+    userName.innerText = txtUname.value;
+}
