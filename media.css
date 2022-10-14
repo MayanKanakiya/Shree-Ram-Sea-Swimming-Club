@@ -700,6 +700,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 393px) {
   #imgshow {
     vertical-align: middle !important;
@@ -731,6 +732,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 380px) {
   #imgshow {
     vertical-align: middle !important;
@@ -762,6 +764,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 371px) {
   #imgshow {
     vertical-align: middle !important;
@@ -793,6 +796,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 365px) {
   #imgshow {
     vertical-align: middle !important;
@@ -824,6 +828,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 355px) {
   #imgshow {
     vertical-align: middle !important;
@@ -855,6 +860,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 345px) {
   #imgshow {
     vertical-align: middle !important;
@@ -886,6 +892,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 335px) {
   #imgshow {
     vertical-align: middle !important;
@@ -917,6 +924,7 @@
     margin-top: 1px !important;
   }
 }
+
 @media only screen and (max-width: 323px) {
   #imgshow {
     vertical-align: middle !important;
@@ -925,7 +933,8 @@
     border-radius: 50% !important;
     position: relative !important;
     left: 137px !important;
-    bottom: 314px !important;;
+    bottom: 314px !important;
+    ;
   }
 
   #userName {
@@ -948,4 +957,9 @@
   #inputContainer {
     margin-top: 1px !important;
   }
+
+  #imgload {
+    width: 278px;
+  }
+
 }
