@@ -6,7 +6,7 @@ document.getElementById("download").addEventListener("click", function () {
         }).then(function (canvas) {
             var anchorTag = document.createElement("a");
             document.body.appendChild(anchorTag);
-            anchorTag.download = "file.jpg";
+            anchorTag.download = "file.png";
             anchorTag.href = canvas.toDataURL();
             anchorTag.target = '_blank';
             anchorTag.click();
