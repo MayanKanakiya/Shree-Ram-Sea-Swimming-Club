@@ -612,8 +612,8 @@
     height: 245px !important;
     border-radius: 50% !important;
     position: relative !important;
-    left: 182px !important;
-    bottom: 413px !important;
+    left: 184px !important;
+    bottom: 420px !important;
   }
 
   #userName {
@@ -622,8 +622,8 @@
     height: 392px !important;
     border-radius: 50% !important;
     position: relative !important;
-    right: 233px !important;
-    bottom: 354px !important;
+    right: 231px !important;
+    bottom: 347px !important;
     font-size: 11px !important;
   }
 
@@ -654,8 +654,8 @@
     height: 392px !important;
     border-radius: 50% !important;
     position: relative !important;
-    right: 220px !important;
-    bottom: 339px !important;
+    right: 227px !important;
+    bottom: 344px !important;
     font-size: 11px !important;
   }
 
@@ -687,13 +687,262 @@
     border-radius: 50% !important;
     position: relative !important;
     right: 215px !important;
-    bottom: 330px !important;
+    bottom: 333px !important;
     font-size: 12px !important;
   }
 
   #imgSection {
     height: 561px !important;
     display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 393px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 225px !important;
+    height: 225px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 166px !important;
+    bottom: 380px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 211px !important;
+    bottom: 319px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 542px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 380px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 220px !important;
+    height: 220px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 162px !important;
+    bottom: 372px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 207px !important;
+    bottom: 311px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 524px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 371px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 215px !important;
+    height: 215px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 157px !important;
+    bottom: 362px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 202px !important;
+    bottom: 305px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 514px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 365px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 210px !important;
+    height: 210px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 155px !important;
+    bottom: 354px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 202px !important;
+    bottom: 305px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 505px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 355px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 205px !important;
+    height: 205px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 150px !important;
+    bottom: 346px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 193px !important;
+    bottom: 294px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 490px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 345px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 197px !important;
+    height: 197px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 148px !important;
+    bottom: 334px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 185px !important;
+    bottom: 283px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 477px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 335px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 190px !important;
+    height: 190px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 142px !important;
+    bottom: 322px !important;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 177px !important;
+    bottom: 269px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 463px !important;
+    display: inline-block !important;
+  }
+
+  #inputContainer {
+    margin-top: 1px !important;
+  }
+}
+@media only screen and (max-width: 323px) {
+  #imgshow {
+    vertical-align: middle !important;
+    width: 185px !important;
+    height: 185px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    left: 137px !important;
+    bottom: 314px !important;;
+  }
+
+  #userName {
+    vertical-align: middle !important;
+    width: 392px !important;
+    height: 392px !important;
+    border-radius: 50% !important;
+    position: relative !important;
+    right: 173px !important;
+    bottom: 262px !important;
+    font-size: 12px !important;
+  }
+
+  #imgSection {
+    height: 455px !important;
+    display: inline-block !important;
+    padding-right: 0px !important;
   }
 
   #inputContainer {
