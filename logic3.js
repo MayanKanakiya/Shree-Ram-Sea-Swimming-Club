@@ -18,3 +18,6 @@ let userName = document.getElementById("userName");
 txtUname.onkeyup = function () {
     userName.innerText = txtUname.value;
 }
+
+$("#name").attr("maxlength", 22);
+$("#name").attr("minlength", 3);

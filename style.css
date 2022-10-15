@@ -1,13 +1,12 @@
 #imgshow {
     vertical-align: middle;
-    width: 357px;
-    height: 357px;
+    width: 341px;
+    height: 379px;
     border-radius: 50%;
     position: relative;
-    left: 264px;
-    bottom: 604px;
+    left: 287px;
+    bottom: 622px;
 }
-
 #themeImg {
     width: 100%;
     height: auto;
@@ -17,15 +16,9 @@
     font-size: 20px;
     font-weight: bolder;
     color: white;
-}
-
-#userName {
-    vertical-align: middle;
     width: 392px;
     height: 392px;
-    border-radius: 50%;
     position: relative;
-    right: 323px;
+    right: 310px;
     bottom: 503px;
-
 }
