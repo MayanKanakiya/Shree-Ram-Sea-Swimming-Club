@@ -15,7 +15,8 @@
     <!-- main container -->
     <div class="container">
         <div class="row gx-5">
-            <h1 id="scrollTPage" class="mb-5" style="display:hidden ;"></h1>
+            <button type="button" class="btn btn-warning ms-3 my-3 clickbtn" disabled="disabled"
+                id="download">Download</button>
             <div class="col" id="imgSection" style="height:849px;padding-right: 2px;padding-left: 0px;">
                 <img src="mainPic.png" alt="image not found" id="themeImg" width="600" height="400"
                     alt="Responsive Image" />
@@ -26,8 +27,7 @@
                 <label for="name" class="form-label">Enter Your Name :</label>
                 <input type="text" class="form-control" id="name" placeholder="Enter your name here" autocomplete="off">
                 <input type="file" id="imgload" class="btn btn-warning my-3">
-                <button type="button" class="btn btn-warning ms-3 my-3 clickbtn" id="download"><a
-                        href="#scrollTPage">Download</a></button>
+                <!-- <button type="button" class="btn btn-warning ms-3 my-3 clickbtn" id="download">Download</button> -->
             </div>
         </div>
     </div>
@@ -37,6 +37,21 @@
     <script src="logic.js"></script>
     <script src="logic2.js"></script>
     <script src="logic3.js"></script>
+    <script>
+        let mainForm = document.getElementById('inputContainer');
+        let txtname = document.getElementById('name');
+        let imgfile = document.getElementById('imgload');
+        let btn = document.getElementById('download');
+
+        mainForm.addEventListener('input', () => {
+            if (txtname.value.length > 0 && imgfile.value.length > 0) {
+                btn.removeAttribute('disabled');
+            } else {
+                btn.setAttribute('disabled', "disabled");
+            }
+        })
+
+    </script>
 </body>
 
 </html>
