@@ -31,3 +31,10 @@ mainForm.addEventListener('input', () => {
         btn.setAttribute('disabled', "disabled");
     }
 });
+
+$("#name").attr("maxlength", 22);
+$("#name").attr("minlength", 3);
+
+$(document).ready(function () {
+    $("#imgload").cropzee({ startSize: [85, 85, '%'], });
+});
