@@ -15,7 +15,7 @@
     <!-- main container -->
     <div class="container">
         <div class="row gx-5">
-            <button type="button" class="btn btn-warning ms-3 my-3 clickbtn" disabled="disabled"
+            <button type="button" class="btn btn-warning clickbtn my-1 mb-0" disabled="disabled"
                 id="download">Download</button>
             <div class="col" id="imgSection" style="height:849px;padding-right: 2px;padding-left: 0px;">
                 <img src="mainPic.png" alt="image not found" id="themeImg" width="600" height="400"
@@ -38,19 +38,8 @@
     <script src="logic2.js"></script>
     <script src="logic3.js"></script>
     <script>
-        let mainForm = document.getElementById('inputContainer');
-        let txtname = document.getElementById('name');
-        let imgfile = document.getElementById('imgload');
-        let btn = document.getElementById('download');
-
-        mainForm.addEventListener('input', () => {
-            if (txtname.value.length > 0 && imgfile.value.length > 0) {
-                btn.removeAttribute('disabled');
-            } else {
-                btn.setAttribute('disabled', "disabled");
-            }
-        })
-
+        $("#name").attr("maxlength", 22);
+        $("#name").attr("minlength", 3);
     </script>
 </body>
 

@@ -19,5 +19,15 @@ txtUname.onkeyup = function () {
     userName.innerText = txtUname.value;
 }
 
-$("#name").attr("maxlength", 22);
-$("#name").attr("minlength", 3);
+let mainForm = document.getElementById('inputContainer');
+let txtname = document.getElementById('name');
+let imgfile = document.getElementById('imgload');
+let btn = document.getElementById('download');
+
+mainForm.addEventListener('input', () => {
+    if (txtname.value.length > 0 && imgfile.value.length > 0) {
+        btn.removeAttribute('disabled');
+    } else {
+        btn.setAttribute('disabled', "disabled");
+    }
+});
