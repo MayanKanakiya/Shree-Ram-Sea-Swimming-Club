@@ -24,3 +24,8 @@
     right: 310px;
     bottom: 503px;
 }
+
+#footer {
+    position: relative;
+    bottom: -90px;
+}

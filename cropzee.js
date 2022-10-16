@@ -2,6 +2,7 @@
 var dependencies =
     '<!-- light-modal -->'
     + '<link href="https://cdn.jsdelivr.net/gh/hunzaboy/Light-Modal@latest/dist/css/light-modal.min.css" rel="stylesheet"/>'
+    + '<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">'
     + '<!-- animate.css -->'
     + '<link href="https://cdn.jsdelivr.net/gh/daneden/animate.css@latest/animate.min.css" rel="stylesheet"/>'
     + '<!-- canvas-toBlob.js -->'
@@ -167,7 +168,7 @@ jQuery.fn.extend({
             // lightmodal see https://hunzaboy.github.io/Light-Modal/#
             var lightmodalHTML =
                 '<div class="light-modal" id="cropzee-modal" role="dialog" aria-labelledby="light-modal-label" aria-hidden="false" data-lightmodal="close">'
-                + '<div class="light-modal-content ' + animation + '">'
+                + '<div class="light-modal-content ' + animation + '" style="background-color: #bba155;">'
                 + '<!-- light modal header -->'
                 + '<!-- <div class="light-modal-header">'
                 + '<h3 class="light-modal-heading">Cropzee</h3>'
@@ -179,9 +180,8 @@ jQuery.fn.extend({
                 + '</div>'
                 + '<!-- light modal footer -->'
                 + '<div class="light-modal-footer" style="justify-content: space-between;">'
-                + '<div onclick="closeModal()" class="light-modal-close-btn" style="cursor: pointer;" aria-label="close">Cancel</div>'
-                + '<div onclick="cropzeeRotateImage(`' + id + '`);" class="light-modal-close-btn" style="cursor: pointer;">Rotate 90deg</div>'
-                + '<div onclick="cropzeeCreateImage(`' + id + '`);" class="light-modal-close-btn" style="cursor: pointer;">Done</div>'
+                + '<div onclick="closeModal()" class="btn btn-warning" style="cursor: pointer;" aria-label="close">Cancel</div>'
+                + '<div onclick="cropzeeCreateImage(`' + id + '`);" class="btn btn-warning" style="cursor: pointer;">Done</div>'
                 + '</div>'
                 + '</div>'
                 + '<canvas style="position: absolute; top: -99999px; left: -99999px;" id="cropzee-hidden-canvas"></canvas>'
