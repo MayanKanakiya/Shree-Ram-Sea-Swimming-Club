@@ -8,12 +8,18 @@
     <link rel="stylesheet" href="bootStyle.css">
     <link rel="stylesheet" href="media.css">
     <link rel="stylesheet" href="style.css">
+    <style>
+        #footerContainer {
+            position: relative;
+            bottom: -30px;
+        }
+    </style>
     <title>Shree Ram Sea Swimming Club</title>
 </head>
 
 <body>
     <!-- main container -->
-    <div class="container">
+    <div class="container" id="mainContainer">
         <div class="row gx-5">
             <button type="button" class="btn btn-warning clickbtn my-1 mb-0" disabled="disabled"
                 id="download">Download</button>
@@ -31,15 +37,14 @@
             </div>
         </div>
     </div>
-    <!-- <footer>
-        <div class="container-fluid bg-dark my-5">
-            <footer class="py-3 my-4">
-                <p class="nav justify-content-center border-bottom pb-3 mb-3 text-white">Developed by Mayank
-                </p>
-                <p class="text-center text-white">Contact Us : 9727633838</p>
-            </footer>
-        </div>
-    </footer> -->
+    <div class="container-fluid my-5 mb-0" id="footerContainer" style="background-color: #fecb02;">
+        <footer class="py-3 my-4" id="footer">
+            <p class="nav justify-content-center border-bottom pb-3 mb-3 text-dark">
+                Developed by <b class="ms-1"> Mayank </b>
+            </p>
+            <p class="text-center text-dark">Contact Us : <b>9727633838</b></p>
+        </footer>
+    </div>
     <script src="bootJs.js"></script>
     <script src="jquery.js"></script>
     <script src="logic.js"></script>
