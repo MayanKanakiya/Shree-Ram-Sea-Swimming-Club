@@ -1,0 +1,31 @@
+#imgshow {
+    vertical-align: middle;
+    width: 341px;
+    height: 379px;
+    border-radius: 50%;
+    position: relative;
+    left: 287px;
+    bottom: 622px
+}
+
+#themeImg {
+    width: 100%;
+    height: auto
+}
+
+#userName {
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 800;
+    color: #fff;
+    width: 392px;
+    height: 392px;
+    position: relative;
+    right: 310px;
+    bottom: 503px
+}
+
+#footer {
+    position: relative;
+    bottom: -90px
+}

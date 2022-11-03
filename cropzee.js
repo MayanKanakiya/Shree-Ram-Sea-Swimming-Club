@@ -168,7 +168,7 @@ jQuery.fn.extend({
             // lightmodal see https://hunzaboy.github.io/Light-Modal/#
             var lightmodalHTML =
                 '<div class="light-modal" id="cropzee-modal" role="dialog" aria-labelledby="light-modal-label" aria-hidden="false" data-lightmodal="close">'
-                + '<div class="light-modal-content ' + animation + '" style="background-color: #bba155;">'
+                + '<div class="light-modal-content ' + animation + '" style="background-color: #ff939e;">'
                 + '<!-- light modal header -->'
                 + '<!-- <div class="light-modal-header">'
                 + '<h3 class="light-modal-heading">Cropzee</h3>'
@@ -180,8 +180,8 @@ jQuery.fn.extend({
                 + '</div>'
                 + '<!-- light modal footer -->'
                 + '<div class="light-modal-footer" style="justify-content: space-between;">'
-                + '<div onclick="closeModal()" class="btn btn-warning" style="cursor: pointer;" aria-label="close">Cancel</div>'
-                + '<div onclick="cropzeeCreateImage(`' + id + '`);" class="btn btn-warning" style="cursor: pointer;">Done</div>'
+                + '<div onclick="closeModal()" class="btn btn-danger" style="cursor: pointer;" aria-label="close">Cancel</div>'
+                + '<div onclick="cropzeeCreateImage(`' + id + '`);" class="btn btn-danger" style="cursor: pointer;">Done</div>'
                 + '</div>'
                 + '</div>'
                 + '<canvas style="position: absolute; top: -99999px; left: -99999px;" id="cropzee-hidden-canvas"></canvas>'
